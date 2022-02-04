@@ -12,6 +12,7 @@ public class Keyboard {
 		try {
 			Robot bot = new Robot();
 			bot.keyPress(key);
+			bot.keyRelease(key);
 		} catch (AWTException e) {
 			e.printStackTrace();
 		}

@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/oliver/Desktop/malib/MalLib/libs/jnativehook-2.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
