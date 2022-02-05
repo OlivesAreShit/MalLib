@@ -12,6 +12,7 @@ public class Mouse {
 		try {
 			Robot bot = new Robot();
 			bot.mouseMove(x, y);
+			//bot.mouseRelease(0); idk?
 		} catch (AWTException e) {
 			e.printStackTrace();
 		}
