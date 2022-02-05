@@ -1,16 +1,19 @@
 package oliver.mallib.main;
 
 /**
- * Made by Oliver (OlivesAreShit) (16 January 2022)<br>
- * An opensource Java library made for making malware<br>
- * MADE FOR EDUCATIONAL PURPOSES<br>
+ * Made by Oliver (OlivesAreShit) January 16, 2022.<br>
+ * MalLib is an open source Java library made for making malware.<br>
+ * <br>
+ * MADE FOR EDUCATIONAL PURPOSES ONLY!<br>
  * 
- * @author oliver
+ * @author Oliver Williams
+ * 
+ * Doucumentation can be found here:<br>
+ * 
  */
-
 public class MalLib {
 	
-	public static boolean error_print_debug = true; // USE FOR TESTING
+	public static boolean error_print_debug = true;// USE FOR TESTING
 	
 	/**
 	 * Terminates the Java Virtual Machine.

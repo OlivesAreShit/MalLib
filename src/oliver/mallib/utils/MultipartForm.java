@@ -1,4 +1,4 @@
-package oliver.mallib.other;
+package oliver.mallib.utils;
 
 import java.io.*;
 import java.net.URLConnection;

@@ -13,6 +13,8 @@ import java.net.URLConnection;
 import java.net.URLEncoder;
 import java.util.Scanner;
 
+import oliver.mallib.utils.MultipartForm;
+
 public class Webhook {
 	
 	public static String br = "\r";
