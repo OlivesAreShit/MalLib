@@ -12,8 +12,8 @@ public class FileUtils {
 	 * Creates a new file with the text chosen.
 	 */
 	public static File createFileWithText(String filePath, String text) {
-		File file = new File(filePath);
-		
+		File file = new File(filePath); 
+		 
 		try {
 			FileWriter writer = new FileWriter(filePath);
 			writer.write(text);
