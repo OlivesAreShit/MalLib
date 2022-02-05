@@ -8,8 +8,11 @@ import oliver.mallib.main.MalLib;
 
 public class Troll {
 	
-	public static SoundUtil sound = new SoundUtil();
+	private SoundUtil sound = new SoundUtil();
 	
+	/**
+	* Opens a link in the default browser.
+	*/
 	public static void openLink(String link) {
 		try {
 			  Desktop desktop = java.awt.Desktop.getDesktop();
@@ -22,6 +25,9 @@ public class Troll {
 			}
 	}
 	
+	/**
+	* Plays an MP3 file at the URL provided.
+	*/
 	public static void playUrlMP3(String link) {
 		try {
 			  sound.stop();
