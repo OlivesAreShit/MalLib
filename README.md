@@ -2,7 +2,7 @@
 # MalLib
 
 
-A Java library for making malware. For LEARNING purposes only, I won't include anything super harmful.
+A Java library for making malware. For LEARNING purposes only.
 
 
 ## Features:
