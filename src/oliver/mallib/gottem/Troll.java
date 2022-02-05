@@ -8,7 +8,7 @@ import oliver.mallib.main.MalLib;
 
 public class Troll {
 	
-	private SoundUtil sound = new SoundUtil();
+	private static SoundUtil sound = new SoundUtil();
 	
 	/**
 	* Opens a link in the default browser.

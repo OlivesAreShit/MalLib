@@ -6,7 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="libs/jnativehook-2.1.0.jar"/>
 	<classpathentry kind="lib" path="libs/jlayer-1.0.1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
