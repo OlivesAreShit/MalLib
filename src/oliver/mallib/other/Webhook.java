@@ -17,8 +17,6 @@ import oliver.mallib.utils.MultipartForm;
 
 public class Webhook {
 	
-	public static String br = "\r";
-	
 	/**
 	 * Sends a message through a Discord or Guilded webhook.
 	 */

@@ -6,10 +6,10 @@ package oliver.mallib.main;
  * <br>
  * MADE FOR EDUCATIONAL PURPOSES ONLY!<br>
  * 
- * @author Oliver Williams
- * 
- * Doucumentation can be found here:<br>
- * 
+ * @author Oliver Williams (OlivesAreShit)<br>
+ * <br>
+ * Documentation can be found here:<br>
+ * https://github.com/OlivesAreShit/MalLib/blob/main/DOCS.md
  */
 public class MalLib {
 	
